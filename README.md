@@ -14,13 +14,12 @@ TFS Crypto est un script pour FiveM qui permet aux joueurs de créer et gérer d
 - **Système de profit** : Gagnez des bénéfices en fonction du niveau de votre entrepôt.
 - **Améliorations** : Améliorez vos équipements pour augmenter les profits.
 - **Factures d'électricité** : Gérez les coûts associés à l'exploitation de votre entrepôt.
-- **Suggestions dans le chat** : Utilisez des commandes simples pour interagir avec le script.
 
 ## 💻 Installation
 
-1. Téléchargez le script depuis le [lien de téléchargement](#).
+1. Téléchargez le script depuis le [lien de téléchargement](https://github.com/tifiouse-root/TFS_CRYPTO/archive/refs/heads/main.zip).
 2. Décompressez le fichier et placez le dossier `ts_crypto` dans votre dossier `resources` de votre serveur FiveM.
-3. Ajoutez `start ts_crypto` à votre fichier `server.cfg`.
+3. Ajoutez `ensure ts_crypto` à votre fichier `server.cfg`.
 
 ## 📜 Configuration
 
