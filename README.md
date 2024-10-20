@@ -34,7 +34,7 @@ Config.Admin = "admin" -- nom du groupe admin qui peut créer des entrepôts
 
 ## 🧪 Commandes
 
-- **/createwarehouse** : Crée un nouvel entrepôt de crypto.
+- **/create_cryptohouse** : Crée un nouvel entrepôt de crypto.
   - `prix` : Prix de vente de l'entrepôt.
 
 ## 🟣 Traductions
