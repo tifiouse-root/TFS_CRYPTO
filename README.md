@@ -44,7 +44,7 @@ Le script prend en charge plusieurs traductions. Assurez-vous de personnaliser l
 
 ## License
 
-Ce projet est sous licence [MIT](LICENSE).
+Ce projet est sous licence [MIT](#).
 ```
 # Licence MIT
 
